@@ -10,7 +10,7 @@ Este projeto é para empresa BJM, com o intuito de gerenciar o estoque da empres
 - registro de novos adm's e mod's
 ### administrador (adm)
 - criar modelo de produto
-- editar modelo de produto
+- editar modelo de produto 
 ### moderador (mod)
 - criar um produto a partir de um modelo
 ### compartilhada ( gm ,adm, mod )
@@ -18,3 +18,4 @@ Este projeto é para empresa BJM, com o intuito de gerenciar o estoque da empres
 - catalogar por fornecedores e clientes
 - pesquisa de fornecedor e cliente
 - pesquisa de estoque atual da empresa
+- edição do estoque 
