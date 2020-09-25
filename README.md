@@ -1,4 +1,4 @@
-# app-gerenciamento
+# app-root
 Este projeto é para empresa BJM, com o intuito de gerenciar o estoque da empresa
 ## entidados
 - gm  = usuario root,com maior poder e acesso
